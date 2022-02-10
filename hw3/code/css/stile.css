@@ -1,0 +1,25 @@
+.div {
+    border: 2px double black;
+    height: 250px;
+    width: 500px;
+}
+
+.aaa {
+    font-size: 70px;
+    color: green;
+}
+
+.bbb {
+    font-size: 50px;
+    color: grey;
+}
+
+p {
+    font-size: 20px;
+}
+
+.eee {
+    border: 2px dashed blue;
+    width: 400px;
+    text-align: justify;
+}
